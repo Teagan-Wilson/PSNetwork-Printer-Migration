@@ -4,8 +4,8 @@
 #Note: Enviroment Specific, Not for general consumption, without major customization.
 
 #Statics
-$OLDPrintServer = "STVDC"
-$NEWPrintServer = "twilson_3510"
+$OLDPrintServer = ""
+$NEWPrintServer = ""
 
 
 #Get installed network printers.
